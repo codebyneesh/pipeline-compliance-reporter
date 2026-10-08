@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python package metadata
+*.egg-info/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Build artifacts
+build/
+dist/
+
+# Testing cache
+.pytest_cache/
